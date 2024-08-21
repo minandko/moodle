@@ -1,4 +1,5 @@
 html {
     --core-header-toolbar-background: green;
-    --primary: blue;
+    --primary: red;
+    --white: blue;
 }
